@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm John Blanco Paniagua
 
-<!--
-**JohnBlancoP/JohnBlancoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Engineer focused on software development, cloud technologies, and problem solving.
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- Python
+- SQL
+- Oracle APEX
+- React
+- Docker
+- Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Municipal licensing management system
+- Distributed messaging system in C
+- Cloud deployment project with AKS and CI/CD
+
+## Contact
+- LinkedIn: ...
+- Email: ...
