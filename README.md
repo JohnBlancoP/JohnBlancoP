@@ -97,6 +97,14 @@ I enjoy working on projects that combine problem-solving, structure, and real-wo
 
 ## 📌 Featured Projects
 
+### TalentTrade: Skill-Bartering Platform (Android + Spring Boot)
+A skill-bartering platform where users register what they can teach and want to learn, get matched with compatible peers, agree on session-based learning plans, chat in real time, and verify their proficiency through AI-generated quizzes, plus reviews, user blocking, profile avatars, and biometric login.
+- **Links:** [Android App Repository](https://github.com/San-190/TalentTrade-FE) · [Backend Repository](https://github.com/JarrenCV/TalentTrade-BE)
+- **Tech:** Kotlin · Spring Boot · Spring Data JPA · PostgreSQL · Jetpack Compose · Hilt · Retrofit · JWT & Biometric auth · Azure Functions · OpenAI
+
+Links: Android App Repository · Backend Repository
+Tech: Kotlin · Spring Boot · Spring Data JPA · PostgreSQL · Jetpack Compose · Hilt · Retrofit · JWT & Biometric auth · Azure Functions · OpenAI
+
 ### 📡 [Mini-Kafka Distributed Messaging System](https://github.com/JarrenCV/BrokerDistribuidoMiniKafka)
 Distributed messaging system built in **C** with **TCP sockets**, **IPC**, **concurrency**, and **deadlock prevention**.  
 Includes producer-broker-consumer communication and persistent queue simulation.
