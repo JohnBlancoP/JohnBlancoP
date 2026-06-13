@@ -97,7 +97,7 @@ I enjoy working on projects that combine problem-solving, structure, and real-wo
 
 ## 📌 Featured Projects
 
-### TalentTrade: Skill-Bartering Platform (Android + Spring Boot)
+### 1. TalentTrade: Skill-Bartering Platform (Android + Spring Boot)
 A skill-bartering platform where users register what they can teach and want to learn, get matched with compatible peers, agree on session-based learning plans, chat in real time, and verify their proficiency through AI-generated quizzes, plus reviews, user blocking, profile avatars, and biometric login.
 - **Links:** [Android App Repository](https://github.com/San-190/TalentTrade-FE) · [Backend Repository](https://github.com/JarrenCV/TalentTrade-BE)
 - **Tech:** Kotlin · Spring Boot · Spring Data JPA · PostgreSQL · Jetpack Compose · Hilt · Retrofit · JWT & Biometric auth · Azure Functions · OpenAI
@@ -105,16 +105,16 @@ A skill-bartering platform where users register what they can teach and want to 
 Links: Android App Repository · Backend Repository
 Tech: Kotlin · Spring Boot · Spring Data JPA · PostgreSQL · Jetpack Compose · Hilt · Retrofit · JWT & Biometric auth · Azure Functions · OpenAI
 
-### 📡 [Mini-Kafka Distributed Messaging System](https://github.com/JarrenCV/BrokerDistribuidoMiniKafka)
+### 2. [Mini-Kafka Distributed Messaging System](https://github.com/JarrenCV/BrokerDistribuidoMiniKafka)
 Distributed messaging system built in **C** with **TCP sockets**, **IPC**, **concurrency**, and **deadlock prevention**.  
 Includes producer-broker-consumer communication and persistent queue simulation.
 
-### 🏥 Medical Appointment Management SPA
+### 3. Medical Appointment Management SPA
 Single-page web application built with **React** and **Spring Boot**.  
 Includes **JWT authentication**, **role-based access**, and **MySQL integration**.  
 *Repository link coming soon.*
 
-### 📂 GAPEX Document Management System
+### 4. GAPEX Document Management System
 Client-sponsored university project built with **Oracle APEX** and **Oracle Database**.  
 Focused on secure document access, role-based permissions, notifications, audit trails, and document workflow management.
 
